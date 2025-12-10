@@ -1,0 +1,17 @@
+{
+	"name": "Mining Helmets",
+	"description": "A Mod that adds equippable mining helmets to the game,",
+	"version": "1.0.0R",
+	"author": "Urist McJackass",
+	"file": "out/MiningHelmets",
+	"languages": [
+		"lang/english"
+	],
+	"allowUnlockingMilestones":true,
+	"multiplayer":"compatible",
+	"tags": [
+		"Item"
+	],
+	"waywardVersion": "2.15.2-beta",
+	"publishedFileId": "2781528901"
+}

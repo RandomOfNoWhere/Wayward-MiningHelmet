@@ -1,0 +1,24 @@
+{
+	"extends": "English",
+	"dictionaries": {
+		"item": {
+			"ModMiningHelmetsCopperMiningHelmet": ["copper mining helmet", "A copper helmet with a candle housed inside it providing illumination."],
+			"ModMiningHelmetsLitCopperMiningHelmet": ["lit copper mining helmet", "Burning softly, this copper mining helmet provides hands-free lighting."],
+
+			"ModMiningHelmetsTinMiningHelmet": ["tin mining helmet", "A tin mining helmet, it offers some light but not much in protection."],
+			"ModMiningHelmetsLitTinMiningHelmet": ["lit tin mining helmet", "A tin mining helmet lit to provide illumination, its light lasts long but not as long in combat."],
+
+			"ModMiningHelmetsWroughtIronMiningHelmet": ["wrought iron mining helmet", "A mining helmet made from wrought iron. Useful for using both hands in the dark"],
+			"ModMiningHelmetsLitWroughtIronMiningHelmet": ["lit wrought iron mining helmet", "A lit wrought iron helmet, offers some degree of protection and light."],
+
+			"ModMiningHelmetsIronMiningHelmet": ["iron mining helmet", "Forged from iron, this mining helmet is ready to light the way."],
+			"ModMiningHelmetsLitIronMiningHelmet": ["lit iron mining helmet", "Tough and long lasting, this bright iron mining helmet is a handy tool for spelunking."],
+
+			"ModMiningHelmetsBronzeMiningHelmet": ["bronze mining helmet", "A sturdy mining helmet made of bronze, ready to be lit."],
+			"ModMiningHelmetsLitBronzeMiningHelmet": ["lit bronze mining helmet", "This radiant bronze mining helmet lights your way, parting the darkness."],
+
+			"ModMiningHelmetsLavaBeetleMiningHelmet": ["lava beetle mining helmet", "A lava beetle helmet with a candle glued on top of the horn. Providing light while retaining the same amount of protection."],
+			"ModMiningHelmetsLitLavaBeetleMiningHelmet": ["lit lava beetle mining helmet", "With a lit candle atop its horn, This lava beetle helmet illuminates and protects your head."]
+		}
+	}
+}
